@@ -1,0 +1,49 @@
+Object/Class Number,Object/class Name,RGB Color Code,Image,Description
+1,Footpath,"255, 255, 255",Sheet 2,
+2,Bike lane,"180, 180, 180",Sheet 3,
+3,Car lane,"70, 70, 70",Sheet 4,Including car park
+4,Pedestrian Crossing,"200, 200, 200",Sheet 5,Both zebra crossing and double dotted lines at pedestrian light
+5,Tactile Paving,"100, 100, 100",Sheet 6,
+6,Tree Surrounding - Permeable Paving,"230, 230, 230",Sheet 7,
+7,Driveway,"120, 120, 120",Sheet 8,Including petrol stations
+8,Railway Track,"20, 20, 20",Sheet 9,"Close by track, not including distant ones"
+9,Building,"42, 125, 209",Sheet 10,"Distant buildings, including vegetation attached"
+10,Wall,"89, 134, 179",Sheet 11,
+11,Platform,"0, 255, 255",Sheet 48,
+12,Footpath canopy,"0, 153, 255",Sheet 12,
+13,Fence,"50, 183, 250",Sheet 13,
+14,Pedestrian,"250, 50, 83",Sheet 14,
+15,Cyclist,"192, 0, 0",Sheet 15,
+16,Bird,"255, 0, 204",Sheet 16,
+17,Pet,"255, 153, 255",Sheet 17,
+18,Ramp,"33, 176, 199",Sheet 18,Ramps connecting footpath to car lane
+19,Stairs ,"61, 61, 245",Sheet 19,
+20,Motorbike,"184, 61, 245",Sheet 20,
+21,Bicycle,"204, 0, 255",Sheet 21,
+22,Scooter/wheelchair,"153, 102, 255",Sheet 22,
+23,Small Vehicle,"115, 51, 128",Sheet 23,
+24,Large Vehicle,"204, 51, 153",Sheet 24,"Bus, truck, light rail"
+25,Traffic signal,"0, 102, 0",Sheet 25,
+26,Pole,"207, 116, 129",Sheet 26,Including street light
+27,Sign,"102, 153, 0",Sheet 27,
+28,Traffic cone,"255, 124, 128",Sheet 28,
+29,Barricade,"255, 55, 55",Sheet 29,Including concrete barriers
+30,Bench,"250, 250, 55",Sheet 30,
+31,Café Chair,"255, 242, 146",Sheet 31,
+32,Café Table,"255, 229, 0",Sheet 32,
+33,Bin,"234, 255, 119",Sheet 33,
+34,Advertising board,"255, 204, 102",Sheet 34,
+35,Tree Surrounding - Protector,"255, 244, 0",Sheet 35,
+36,Electric box,"255, 204, 153",Sheet 36,
+37,Traffic control box,"204, 204, 0",Sheet 37,
+38,Post Box,"255, 239, 174",Sheet 38,
+39,Firehose,"255, 255, 104",Sheet 39,
+40,Bus/tram shelter,"255, 255, 184",Sheet 40,
+41,Bike rack,"216, 216, 194",Sheet 41,
+42,Tree,"61, 245, 61",Sheet 42,
+43,Bush,"0, 176, 80",Sheet 43,
+44,Grass,"153, 255, 102",Sheet 44,
+45,Sky,"51, 221, 255",Sheet 45,
+46,Water,"70, 150, 166",Sheet 46,"Large exposed water: Ocean, creek"
+47,Terrain ,"204, 153, 51",Sheet 47,Large exposed natural terrain
+48,Other,"0, 0, 0",,

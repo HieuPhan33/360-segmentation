@@ -1,0 +1,19 @@
+Done tasks
+    1. Compute class distribution.
+    2. Evaluate PASS on Footpath data.
+
+Issues:
+    1. Data preparation instruction is unclear: Mapillary in paper,
+    but Cityscapes in the code.
+
+To do tasks:
+    1. Prepare Footpath data folder for PASSS.
+    2. Train PASS on Footpath data.
+    3. Train Deeplab-v3+ or HRNet (regular image segmentation) -> concat prediction.
+    Test: Predict separately two parts of the pano.
+
+2 Baselines: PASS and regular image segmentation approaches.
+
+Apply augmentation (not specifically target pano distortion):
+1) Increase images.
+2) To make predictions more robust to visual changing.
